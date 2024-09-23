@@ -43,7 +43,7 @@ Time:          **14-15:00 BST**
 
 Note: A recording of this lesson's Live Lecture (Data Handling 2 - DataFrames - Part 2) will be posted on the [Discussion Forum](https://github.com/orgs/L2D-July2024-Part-I/discussions), shortly after it has been streamed. 
 
-For future reference, [this playlist](https://www.youtube.com/playlist?list=PLTRx90_S7dFu7HczH-bhHC1kh8OmEhL3V) will populate with our lecture recordings (past to present); recordings will be edited and uploaded, shortly after the live broadcast ends. This is for unlimited subsequent review and self-study, as required.
+For future reference, [this playlist](https://www.youtube.com/playlist?list=PLTRx90_S7dFsy50YeT94tTtkl9yMo559k) will populate with our lecture recordings for the Data Handling component of L2D; recordings will be edited and uploaded, shortly after the live broadcast ends. This will serve unlimited subsequent review and self-study, as required.
  
 ## :speech_balloon: Forum:
 
